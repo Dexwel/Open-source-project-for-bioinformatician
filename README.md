@@ -15,3 +15,15 @@ The Tree of Life programme of the Sanger Institute is generating high-quality re
 
 We develop genomics tools to benefit human health
 The Global Alliance for Genomics and Health (GA4GH) was formed to help accelerate the potential of genomic medicine to advance human health. It brings together over 400 leading genome institutes and centers with IT industry leaders to create global standards and tools for the secure, privacy respecting and interoperable sharing of Genomic data.
+
+**4**. **Center for Translational Data Science**
+
+Develop translational data science.
+We develop and operate large-scale data platforms to support research in topics of societal interest, including cancer, cardiovascular disease, inflammatory bowel disease (IBD), birth defects, veterans’ health, pain management, opioid use disorder, and environmental science. We also develop new machine learning and AI algorithms over the data in our platforms.
+
+**5**. **cBioPortal for Cancer Genomics**
+
+https://www.cbioportal.org/
+
+Aid discovery in complex cancer genomics data
+The cBioPortal for Cancer Genomics is a resource designed to provide broad community access to cancer genomic data. It provides a unique user­-friendly and "biology­-centric computational user interface", with the goal of making genomic data more easily accessible to translational scientists, biologists, and clinicians. The interface was explicitly built and continues to evolve with careful usability studies involving multiple biological and clinical users, and an active and engaged user base. The public instance of cBioPortal (https://cbioportal.org/) is now one of the most popular online resources for cancer genomics data and attracts more than 4,000 unique visitors (cancer researchers and clinicians) per day. The two papers documenting the cBioPortal Cerami et al. Cancer Discov. 2012 & Gao et al. Sci. Signal. 2013 have been cited more than 5,600 and 5,100 times, respectively, since their publication. There are more than 30 actively used cBioPortal instances in hospitals, universities, pharmaceutical companies, and other institutes all over the globe. We are a group of software engineers, bioinformaticians, and cancer biologists building software solutions for precision medicine for cancer patients. Our overall goal is to build infrastructure to support clinical decisions for personalized cancer treatment by utilizing “big data” of cancer genomics and patient clinical profiles. Our multi-institutional team currently has more than 30 active members, primarily from Memorial Sloan Kettering Cancer Center, the Dana-Farber Cancer Institute, Princess Margaret Cancer Centre, Children's Hospital of Philadelphia, and The Hyve, a bioinformatics company from the Netherlands.
